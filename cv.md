@@ -21,7 +21,7 @@ my goal is to become a front-end developer as soon as possible, the main thing i
 
 ---
 
-##Skills and methodologies
+## Skills and methodologies
 
 - Html
 - Css
@@ -31,14 +31,14 @@ my goal is to become a front-end developer as soon as possible, the main thing i
 
 ---
 
-##Education (including completed courses and trainings)
+## Education (including completed courses and trainings)
 
 - GoIt week marfone
 - GoIt Demo course
 - Html and Css trainings
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
-##Languages:
+## Languages:
 
 - Russian - Native
 - Ukrainian - Native
